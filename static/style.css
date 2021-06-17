@@ -1,0 +1,17 @@
+html, body {
+    background-color: #e8e8e8;
+    font-family: 'Righteous', cursive;
+}
+
+p {
+    color: #333333
+
+}
+
+h1, a {
+    color: #990100
+}
+
+a:hover {
+    color: #b90504 !important;
+}

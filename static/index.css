@@ -1,0 +1,27 @@
+#links, #about, #name {
+    text-align: center;
+}
+
+#name {
+    margin-top: 1.5%; /* Pushes down my name from the top of the page so it isn't so tight */
+}
+
+#name hr {
+    margin-top: 0%; /* tightens the hr with the name text on top */
+}
+
+#links, #about {
+    margin-top: 7%; /* Makes the photo and about section fill the center of the screen more */
+}
+
+#links {
+    margin-bottom: 2%; /* ensures some dead space under the links */
+}
+
+p {
+    font-size: 20px;
+}
+
+ a {
+     font-size: 20px;
+ }
